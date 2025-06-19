@@ -1,4 +1,14 @@
 # Python-bitirme-projesi
 Gelecek İçin Değiş
 #kütüphaneler
-comicchanges
+flask
+discord
+#teknolojiler
+--------
+backand:
+python
+--------
+frontend:
+css
+html
+--------
